@@ -4,7 +4,8 @@ A simple web app that fetches and displays user data from a public API using Jav
 
 ## 🚀 Live Demo
 
-👉 [View Demo](https://ImYash-J.github.io/fetch-users-app/)
+👉 [View Demo](https://ImYash-J.github.io/fetch-users-app/)  
+> ⚠️ Requires an active internet connection to fetch data from the API.
 
 ---
 
